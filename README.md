@@ -19,6 +19,11 @@ This project implements a real-time pose estimation system using a hybrid deep l
   <img src="outputs/keypoints_overlay.png" width="400"/>
 </p>
 
-## 📁 Project Structure
 
-├── train.py ├── predict.py ├── models/ ├── utils/ └── data/
+## ⚙️ Requirements
+
+- Python 3.8+
+- TensorFlow / Keras
+- OpenCV
+- NumPy, Matplotlib
+
