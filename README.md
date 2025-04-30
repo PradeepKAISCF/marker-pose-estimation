@@ -16,12 +16,12 @@ This project implements a real-time pose estimation system using a hybrid deep l
 
 <p align="center">
   <img src="outputs/val vs train.png" width="600"/>
-  <p><em>Figure: Traing loss vs validation loss</em></p>
+  <p align="center"><em>Figure: Traing loss vs validation loss</em></p>
 </p>
 
 <p align="center">
   <img src="outputs/output.jpg" width="400"/>
-  <p><em>Figure: Predicted keypoints overlaid on original test image</em></p>
+  <p align="center"><em>Figure: Predicted keypoints overlaid on original test image</em></p>
 </p>
 
 
