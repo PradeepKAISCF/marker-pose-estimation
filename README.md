@@ -21,3 +21,4 @@ This project implements a real-time pose estimation system using a hybrid deep l
 
 ## 📁 Project Structure
 
+├── train.py ├── predict.py ├── models/ ├── utils/ └── data/
