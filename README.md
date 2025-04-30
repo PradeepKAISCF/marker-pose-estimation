@@ -16,7 +16,9 @@ This project implements a real-time pose estimation system using a hybrid deep l
 
 <p align="center">
   <img src="outputs/sample_heatmap.png" width="400"/>
+  <em>Figure: Traing loss vs validation loss</em>
   <img src="outputs/keypoints_overlay.png" width="400"/>
+  <em>Figure: Predicted keypoints overlaid on original test image</em>
 </p>
 
 
